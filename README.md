@@ -1,4 +1,7 @@
 # test_technical_gits
+
+Selamat Pagi,Siang,Sore,Malam izin memperkenalkan diri nama saya Muhammad Fakhri Habibillah dari kelas XII RPL 1 yang mengikuti test technical coding daari gits untuk pkl dai GITS.
+
 Ini adalah test technical gits yang terdapat  3 soal Problem Solving
 
 Berapa ukuran kompleksitas kodinganmu? 
